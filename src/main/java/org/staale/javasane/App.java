@@ -4,10 +4,7 @@ import com.sun.jna.Library;
 import com.sun.jna.Native;
 import com.sun.jna.ptr.IntByReference;
 
-/**
- * Hello world!
- *
- */
+
 public class App {
 
     public interface SaneLibrary extends Library {
